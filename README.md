@@ -6,3 +6,5 @@ Roles and Responsibilities:
 •	Created User Stories to achieve the flow of its working.
 •	Created tables, Selection Screen, Methods and Global class.
 •	Performed basic CRUD operations on the tables.
+
+http://cdnqrcgde.s3-eu-west-1.amazonaws.com/wp-content/uploads/2013/11/jpeg.jpg
