@@ -7,3 +7,4 @@ Roles and Responsibilities:
 •	Created tables, Selection Screen, Methods and Global class.
 •	Performed basic CRUD operations on the tables.
 
+<img-src = "https://github.com/Kavana-CR/Shopping-Cart/blob/master/images.pdf">
